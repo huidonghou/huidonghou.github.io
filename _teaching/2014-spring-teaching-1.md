@@ -7,7 +7,7 @@ venue: "Department of Computer Science, Boston College"
 date: Spring 2025
 location: "Chestnut Hill, MA"
 ---
-This undergradute course covers the fundamental concepts of cryptography, including symmetric and asymmetric encryption, hash functions, digital signatures, and public key infrastructure. It also explores the mathematical foundations of cryptographic protocols and their applications in securing communications."
+This undergradute course covers the fundamental concepts of cryptography, including symmetric and asymmetric encryption, hash functions, digital signatures, and public key infrastructure. It also explores the mathematical foundations of cryptographic protocols and their applications in securing communications.
 
 <!-- Heading 1
 ======
