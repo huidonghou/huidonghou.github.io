@@ -11,7 +11,6 @@ redirect_from:
 
 Education
 ======
-* 
 * M.S. in Electrical Engineering, Georgia Tech, Atlanta, GA, 2027(expected)
 * B.S. in Mathematics, Computer Science, Boston College, MA, 2023
   * Dual Deparment Honor, and Scholar of College Recipient in Morrissey College of Arts and Sciences
@@ -33,13 +32,16 @@ Work experience
   * Duties included: utilizing generic radio frequency signals for eavesdropping protection
   * Supervisor: Professor Siddhartan Govindasamy
 
-
-Teaching
+Services
 ======
+* January 2020 - May 2023: Lead tutuor in Connor's Family Learning Center at Boston College
+ * I provided tutorial and academic guidance across all levels of undergraduate courses in Mathematics, and Computer Science.
+
+Teaching Experience
+======
+  I have served as the TA for the following courses during my study at Boston College.
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
+
