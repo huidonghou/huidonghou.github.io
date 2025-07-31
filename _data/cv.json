@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "name": "Jerry Hou",
+    "email": "hhou39@gatch.edu",
+    "phone": "954-296-2600",
+    "website": "https://huidonghou.github.io",
+    "summary": "Incoming first year graduate at Georgia Tech",
     "location": {
       "address": "",
       "postalCode": "",
@@ -14,48 +14,39 @@
     },
     "profiles": [
       {
-        "network": "Google Scholar",
+        "network": "",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": ""
       },
       {
-        "network": "ORCID",
+        "network": "",
         "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "url": ""
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "huidonghou",
+        "url": "https://github.com/huidonghou"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "Boston College",
+      "area": "B.S in Mathematics, Computer Sciences, Boston College, Chestnut Hill, MA",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2023",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Georgia Tech",
+      "area": "M.S. in Electrical and Computer Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
+      "endDate": "2027(expected)",
       "gpa": null,
       "courses": []
     }
@@ -65,88 +56,26 @@
   "interests": [],
   "references": [],
   "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
+    
   ],
   "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "course": "CSCI 3381: Cryptography",
+      "institution": "Department of Computer Science, Boston College",
+      "date": "Spring 2023",
+      "role": "Teaching Assistant",
+      "description": "This undergradute course covers the fundamental concepts of cryptography, including symmetric and asymmetric encryption, hash functions, digital signatures, and public key infrastructure. It also explores the mathematical foundations of cryptographic protocols and their applications in securing communications."
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "course": "MATH4460: Complex Variables",
+      "institution": "Department of Mathematics, Boston College",
+      "date": "Spring 2023",
+      "role": "TA",
+      "description": "This course provides a foundational introduction to complex variables. We begin by exploring complex numbers, their geometric representations in the complex plane (Cartesian and polar coordinates), and the concept of the Riemann sphere.  The core of the course focuses on analytic (holomorphic) functions, covering complex limits, continuity, derivatives, and the essential Cauchy-Riemann equations. We will examine key examples, including the complex exponential, trigonometric, and logarithmic functions.  A significant portion of the course is dedicated to complex integration, introducing line integrals, Cauchy's Theorem, and Cauchy's Integral Formula. We will then delve into the local properties of holomorphic functions, such as zeros, poles, and the maximum principle, culminating in the powerful Residue Theorem and its diverse applications.  \n\nOptional advanced topics, if time permits and based on class interest, may include infinite series and product expansions, analytic continuation, an introduction to special functions (e.g., Gamma and Riemann zeta functions), and Möbius transformations."
     }
   ],
   "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-    }
   ]
 }
