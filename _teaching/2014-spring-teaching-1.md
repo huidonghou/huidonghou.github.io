@@ -1,20 +1,19 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
+title: "CSCI 3381: Cryptography"
+collection: Teaching Assistant
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Department of Computer Science, Boston College"
+date: Spring 2025
+location: "Chestnut Hill, MA"
 ---
+This undergradute course covers the fundamental concepts of cryptography, including symmetric and asymmetric encryption, hash functions, digital signatures, and public key infrastructure. It also explores the mathematical foundations of cryptographic protocols and their applications in securing communications."
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+<!-- Heading 1
 ======
 
 Heading 2
 ======
 
 Heading 3
-======
+====== -->
