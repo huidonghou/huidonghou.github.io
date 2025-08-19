@@ -1,8 +1,8 @@
 ---
-title: "MATH4460"
+title: "MATH4460: Complex Variable"
 collection: Teaching Assistant
 type: "Undergraduate Course"
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/MATH4460
 venue: "Department of Computer Science, Boston College"
 date: 2023-01-13
 location: "Chestnut Hill, MA"

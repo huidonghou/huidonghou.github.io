@@ -2,7 +2,7 @@
 title: "CSCI3381: Cryptography"
 collection: Teaching Assistant
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/CSCI3381
 venue: "Department of Computer Science, Boston College"
 date: 2023-01-14
 location: "Chestnut Hill, MA"

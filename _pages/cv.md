@@ -35,7 +35,7 @@ Work experience
 Services
 ======
 * January 2020 - May 2023: Lead tutuor in Connor's Family Learning Center at Boston College
- * I provided tutorial and academic guidance across all levels of undergraduate courses in Mathematics, and Computer Science.
+  * I provided tutorial and academic guidance across all levels of undergraduate courses in Mathematics, and Computer Science.
 
 Teaching Experience
 ======
