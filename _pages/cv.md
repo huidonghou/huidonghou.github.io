@@ -17,12 +17,12 @@ Education
 
 Work experience
 ======
-* July 2024 - July 2025: BaSE System Engineer, Building and System Integration Group
+* July 2024 - July 2025: BaSE System Engineer, Building and System Integration Group, United Parcel Service(UPS)
   * United Parcel Service: Doraville, GA
   * Duties includes: Designing tools that can help the warehouse integration process and supervise the process for warehouse management.
   
 
-* July 2023 - July 2024: Advanced Technology Group Technical Fellow, Advanced Technology Group
+* July 2023 - July 2024: Advanced Technology Group Technical Fellow, Advanced Technology Group, United Parcel Service(UPS)
   * United Parcel Service: Sandy Springs, GA
   * Duties included: Designing and researching on utilizing cutting edge technologies to develop internal applications across team.
   
